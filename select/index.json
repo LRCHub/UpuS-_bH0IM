@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "赤い風船 - Akaifusen",
+  "base_artist": "Mafumafu",
+  "createdAt": "2026-03-16T12:34:49.129332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "赤い風船",
+      "artist": "浅田美代子",
+      "has_synced": true,
+      "path": "select/01_赤い風船_浅田美代子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "赤い風船",
+      "artist": "浅田美代子",
+      "has_synced": true,
+      "path": "select/02_赤い風船_浅田美代子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "赤い風船",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/03_赤い風船_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤い風船",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_赤い風船_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "赤い風船",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_02_赤い風船_まふまふ.txt"
+    }
+  ]
+}
